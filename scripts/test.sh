@@ -1,4 +1,4 @@
-GPU_NUM=1
+GPU_NUM=0
 TEST_CONFIG_YAML="configs/base_modl,k=10.yaml"
 
 CUDA_VISIBLE_DEVICES=$GPU_NUM python test.py \
