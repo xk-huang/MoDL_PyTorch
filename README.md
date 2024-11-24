@@ -1,3 +1,11 @@
+# MVG comparison
+
+install torch + requirement.txt
+
+Direct run `scripts/test.sh` to get results, the ckpts is in the `workspace`.
+
+Direct run `scripts/train.sh` to re-train the model.
+
 # MoDL
 
 PyTorch implementation of MoDL: Model Based Deep Learning Architecture for Inverse Problems (Not official!)
